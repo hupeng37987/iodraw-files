@@ -68,10 +68,10 @@
           <mxGeometry x="452.5" y="130" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-23" value="开发者选项中打开adb wifi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="224" y="630" width="186" height="30" as="geometry" />
+          <mxGeometry x="224" y="630" width="186" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-24" value="APP侧开启端口监听" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="224" y="710" width="156" height="30" as="geometry" />
+          <mxGeometry x="239" y="710" width="156" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
