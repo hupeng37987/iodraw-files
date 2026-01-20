@@ -25,7 +25,7 @@
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-6" value="1. 蓝牙连接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="530" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mH9eFyrEiQC8s7oTKh0j-9" value="2. 解析自定义蓝牙协议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mH9eFyrEiQC8s7oTKh0j-9" value="2. 发送自定义蓝牙协议，app解析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="254" y="630" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
