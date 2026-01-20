@@ -8,7 +8,10 @@
           <mxGeometry x="160" y="630" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-2" value="小鸡游戏平台APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="540" width="120" height="50" as="geometry" />
+          <mxGeometry x="470" y="535" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mH9eFyrEiQC8s7oTKh0j-3" value="小鸡游戏平台APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="545" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
