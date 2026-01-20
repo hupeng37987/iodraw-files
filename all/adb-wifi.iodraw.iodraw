@@ -7,7 +7,7 @@
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-1" value="手柄" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="630" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mH9eFyrEiQC8s7oTKh0j-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mH9eFyrEiQC8s7oTKh0j-2" value="Phone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
