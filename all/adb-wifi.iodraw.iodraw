@@ -44,13 +44,13 @@
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-15" value="5. 分发事件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="770" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mH9eFyrEiQC8s7oTKh0j-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mH9eFyrEiQC8s7oTKh0j-1">
+        <mxCell id="mH9eFyrEiQC8s7oTKh0j-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="610" as="sourcePoint" />
-            <mxPoint x="470" y="570" as="targetPoint" />
+            <mxPoint x="195" y="623" as="sourcePoint" />
+            <mxPoint x="470" y="563" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="195" y="570" />
-              <mxPoint x="330" y="570" />
+              <mxPoint x="195" y="563" />
+              <mxPoint x="330" y="563" />
             </Array>
           </mxGeometry>
         </mxCell>
