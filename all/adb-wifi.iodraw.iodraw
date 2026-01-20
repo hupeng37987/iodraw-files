@@ -38,14 +38,14 @@
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-9" value="2. 发送自定义蓝牙协议，app解析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="254" y="630" width="186" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mH9eFyrEiQC8s7oTKh0j-12" value="3. 封装Event，通过adb 通道注入事件" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mH9eFyrEiQC8s7oTKh0j-12" value="4. 封装Event，通过adb 通道注入事件" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="630" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-13" value="游戏" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="485" y="820" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-15" value="4. 分发事件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="770" width="70" height="30" as="geometry" />
+          <mxGeometry x="530" y="770" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
