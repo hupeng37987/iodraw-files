@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-22" value="1. 蓝牙连接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="545" width="70" height="30" as="geometry" />
+          <mxGeometry x="495" y="480" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
