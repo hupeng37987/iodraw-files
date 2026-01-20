@@ -13,7 +13,7 @@
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-3" value="InputReader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="710" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mH9eFyrEiQC8s7oTKh0j-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mH9eFyrEiQC8s7oTKh0j-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
