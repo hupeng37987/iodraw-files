@@ -5,67 +5,67 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="440" width="246" height="440" as="geometry" />
+          <mxGeometry x="384" y="90" width="246" height="440" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mH9eFyrEiQC8s7oTKh0j-1" target="mH9eFyrEiQC8s7oTKh0j-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="655" />
+              <mxPoint x="470" y="305" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-1" value="手柄" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="630" width="70" height="50" as="geometry" />
+          <mxGeometry x="130" y="280" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mH9eFyrEiQC8s7oTKh0j-2" target="mH9eFyrEiQC8s7oTKh0j-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="mH9eFyrEiQC8s7oTKh0j-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="559.5" y="530" as="targetPoint" />
-            <mxPoint x="499.5" y="535" as="sourcePoint" />
+            <mxPoint x="529.5" y="180" as="targetPoint" />
+            <mxPoint x="469.5" y="185" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="500" y="515" />
-              <mxPoint x="560" y="515" />
+              <mxPoint x="470" y="165" />
+              <mxPoint x="530" y="165" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-2" value="小鸡游戏平台APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="535" width="120" height="55" as="geometry" />
+          <mxGeometry x="440" y="185" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mH9eFyrEiQC8s7oTKh0j-3" target="mH9eFyrEiQC8s7oTKh0j-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-3" value="InputReader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="710" width="120" height="40" as="geometry" />
+          <mxGeometry x="440" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-6" value="1. 蓝牙连接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="535" width="70" height="30" as="geometry" />
+          <mxGeometry x="240" y="185" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-9" value="2. 发送自定义蓝牙协议，app解析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="254" y="630" width="186" height="30" as="geometry" />
+          <mxGeometry x="224" y="280" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-12" value="4. 封装Event，通过adb 通道注入事件" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="630" width="120" height="40" as="geometry" />
+          <mxGeometry x="510" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-13" value="游戏" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="485" y="820" width="90" height="40" as="geometry" />
+          <mxGeometry x="455" y="470" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-15" value="5. 分发事件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="770" width="70" height="30" as="geometry" />
+          <mxGeometry x="510" y="420" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mH9eFyrEiQC8s7oTKh0j-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="195" y="623" as="sourcePoint" />
-            <mxPoint x="470" y="563" as="targetPoint" />
+            <mxPoint x="165" y="273" as="sourcePoint" />
+            <mxPoint x="440" y="213" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="195" y="563" />
-              <mxPoint x="330" y="563" />
+              <mxPoint x="165" y="213" />
+              <mxPoint x="300" y="213" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-22" value="3. 连接adb wifi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="495" y="480" width="70" height="30" as="geometry" />
+          <mxGeometry x="452.5" y="130" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
