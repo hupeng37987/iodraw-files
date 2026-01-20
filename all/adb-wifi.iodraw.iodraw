@@ -49,6 +49,12 @@
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-15" value="5. 分发事件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="770" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mH9eFyrEiQC8s7oTKh0j-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="700" as="sourcePoint" />
+            <mxPoint x="530" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
