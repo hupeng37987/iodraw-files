@@ -8,7 +8,12 @@
           <mxGeometry x="407" y="480" width="246" height="320" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mH9eFyrEiQC8s7oTKh0j-1" target="mH9eFyrEiQC8s7oTKh0j-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="655" />
+              <mxPoint x="500" y="585" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-1" value="手柄" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="630" width="70" height="50" as="geometry" />
@@ -26,7 +31,7 @@
           <mxGeometry x="270" y="530" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mH9eFyrEiQC8s7oTKh0j-9" value="2. 发送自定义蓝牙协议，app解析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="254" y="630" width="160" height="30" as="geometry" />
+          <mxGeometry x="254" y="630" width="186" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
